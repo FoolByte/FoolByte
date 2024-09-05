@@ -1,3 +1,17 @@
+## Hi there 👋
+
+<!--
+**FoolByte/FoolByte** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Here are some ideas to get you started:
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
 # 👋 Halo, Saya Khairul Iman
 
 Saya adalah seorang mahasiswa **Sistem Informasi** dengan minat besar dalam **Pengembangan Front-End** dan **UI/UX Design**. Saya sangat antusias dalam belajar dan mengembangkan solusi kreatif serta efisien dalam pengembangan web. Di GitHub ini, akan ada proyek-proyek yang menunjukkan perkembangan keterampilan dan pengalaman saya dalam teknologi dan desain.
@@ -12,17 +26,19 @@ Saya adalah seorang mahasiswa **Sistem Informasi** dengan minat besar dalam **Pe
 - **Tools & IDE:** Visual Studio Code, Git, GitHub, Visual Basic
 
 ---
-    <p align="left">
+
+## 🎨 Kreativitas dan Desain
+
+Saya juga tertarik dalam desain kreatif, terutama dalam menciptakan logo dan identitas visual. 
+
+---
+
+# Github Statistic
+<p align="left">
     <a href="https://github.com/FoolByte">
       <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=penuliscode&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
       <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=penuliscode&layout=compact&theme=algolia"/>
     </a>
     </p>
----
-
-## 🎨 Kreativitas dan Desain
-
-Saya juga tertarik dalam desain kreatif, terutama dalam menciptakan logo dan identitas visual. 
----
 
 Terima kasih telah mengunjungi profil GitHub saya! Jangan ragu untuk melihat proyek-proyek saya dan berkontribusi jika Anda tertarik.
