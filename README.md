@@ -20,11 +20,8 @@ Saya juga tertarik dalam desain kreatif, terutama dalam menciptakan logo dan ide
 ---
 
 # Github Statistic
-<p align="center">
+<p align="left">
     <a href="https://github.com/FoolByte">
       <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=penuliscode&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-      <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=penuliscode&layout=compact&theme=algolia"/>
-    </a>
-    </p>
 
 Terima kasih telah mengunjungi profil GitHub saya! Jangan ragu untuk melihat proyek-proyek saya dan berkontribusi jika Anda tertarik.
